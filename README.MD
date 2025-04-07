@@ -5,7 +5,7 @@ Sistema de gestão escolar com foco em controle de cobranças, cadastros de alun
 ## 📌 Status do Projeto
 
 🚧 Em desenvolvimento (Beta)  
-Última atualização: [coloque a data aqui]
+Última atualização: 20/04/2024
 
 ## 📚 Descrição
 
